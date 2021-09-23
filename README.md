@@ -1,4 +1,4 @@
-### SujeongEOM 👋
+## Welcome to my GitHub 👋
 
 ### 🔭 I’m currently working on 
 - building medical prediction AI model using x-ray, MRI images  

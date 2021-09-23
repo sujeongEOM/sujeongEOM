@@ -9,6 +9,7 @@
 - deep learning
 - AI
 - data science
+- computer science
 
 
 

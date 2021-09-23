@@ -1,4 +1,17 @@
-### Hi there 👋
+### SujeongEOM 👋
+
+### 🔭 I’m currently working on 
+- building medical prediction AI model using x-ray, MRI images  
+
+ 
+### 🌱 I’m currently learning 
+- machine learning
+- deep learning
+- AI
+- data science
+
+
+
 
 <!--
 **sujeongEOM/sujeongEOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

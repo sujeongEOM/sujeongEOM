@@ -1,14 +1,14 @@
 ## Sujeong Eom 💐
 
 ### 🔭 I’m currently working on 
-- building medical prediction AI model using x-ray, MRI images  
+- Disease prediction or classification through medical images (X-ray, MRI etc.) using AI(DL, ML) models
 
  
 ### 🌱 I’m currently learning 
 - machine learning
 - deep learning
 - AI
-- data science
+- medical data science
 - computer science
 
 
